@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>bluetooth.svg</file>
+        <file>car.svg</file>
+        <file>headset.svg</file>
+        <file>phone.svg</file>
+        <file>watch.svg</file>
+        <file>i18n/tietobtscanner_en.qm</file>
+        <file>i18n/tietobtscanner_zh.qm</file>
+        <file>computer.svg</file>
+    </qresource>
+</RCC>
